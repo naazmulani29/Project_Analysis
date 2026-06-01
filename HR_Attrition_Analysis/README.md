@@ -1,18 +1,10 @@
-HR Analytics Attrition Dashboard
+## HR Analytics Attrition Dashboard
 
-
-
-Project Overview:-
-
-
+## Project Overview:-
 
 This project analyzes employee attrition using Python and Power BI. The objective is to identify factors influencing employee turnover and provide meaningful HR insights through interactive dashboards.
 
-
-
-Dataset:-
-
-
+## Dataset:-
 
 \* IBM HR Analytics Attrition Dataset
 
@@ -20,11 +12,7 @@ Dataset:-
 
 \* Format: CSV
 
-
-
-Tools Used:-
-
-
+## Tools Used:-
 
 \*  Python
 
@@ -34,15 +22,10 @@ Tools Used:-
 
 \*  Matplotlib
 
-
-
-Power BI Project Workflow:-
-
+## Power BI Project Workflow:-
 
 
 Data Analysis (Python):
-
-
 
 1. &#x20;Loaded and explored HR dataset
 2. &#x20;Checked for missing values and data quality issues
@@ -50,22 +33,13 @@ Data Analysis (Python):
 4. &#x20;Generated business insights
 5. &#x20;Prepared cleaned dataset for visualization
 
-
-
-Dashboard Development (Power BI):-
-
-
+## Dashboard Development (Power BI):-
 
 Created two interactive dashboards-
 
-
-
 \--Dashboard 1: Employee Attrition Overview
 
-
-
 KPIs:
-
 
 
 \* Total Employees
@@ -77,9 +51,7 @@ KPIs:
 \* Average Monthly Income
 
 
-
 Visualizations:
-
 
 
 \* Attrition by Department
@@ -93,23 +65,17 @@ Visualizations:
 \* Attrition Trend by Years at Company
 
 
-
 Filters:
-
-
 
 \* Department
 
 \* Gender
 
 
-
 \--Dashboard 2: Attrition Drivers Analysis
 
 
-
 Visualizations:
-
 
 
 \* Attrition by Job Role
@@ -121,9 +87,7 @@ Visualizations:
 \* Attrition by Job Satisfaction
 
 
-
 Filters:
-
 
 
 \* Job Role
@@ -131,10 +95,7 @@ Filters:
 \* Age Group
 
 
-
-Key Business Questions Solved:-
-
-
+## Key Business Questions Solved:-
 
 1. Which departments experience the highest attrition?
 2. How does overtime impact employee attrition?
@@ -145,9 +106,7 @@ Key Business Questions Solved:-
 7. Does education background influence attrition patterns?
 
 
-
-Key Business Insights:-
-
+## Key Business Insights:-
 
 
 \* Research \& Development recorded the highest attrition count.
@@ -163,9 +122,7 @@ Key Business Insights:-
 \* Job satisfaction levels influenced employee attrition patterns.
 
 
-
-Skills Demonstrated:-
-
+## Skills Demonstrated:-
 
 
 \* Data Cleaning
@@ -182,13 +139,11 @@ Skills Demonstrated:-
 
 
 
-Outcome:-
-
-
+## Outcome:-
 
 The project provides HR teams with actionable insights into employee attrition and helps identify key factors affecting workforce retention.
 
 
 
-&#x20;Author:- Naaz Mulani
+## &#x20;Author:- Naaz Mulani
 
