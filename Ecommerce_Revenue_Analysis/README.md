@@ -1,20 +1,10 @@
-E-Commerce Revenue Analysis
+##E-Commerce Revenue Analysis
 
-
-
-
-
-Project Overview:-
-
-
+##Project Overview:-
 
 This project analyzes sales, profit, customer behavior, product performance, and regional trends using the Superstore dataset. The objective is to identify key business opportunities, improve profitability, and support data-driven decision-making through interactive Tableau dashboards.
 
-
-
-Dataset Files:-
-
-
+##Dataset Files:-
 
 \- orders\_clean.csv
 
@@ -22,10 +12,7 @@ Dataset Files:-
 
 \- people\_clean.csv
 
-
-
-Tools Used:-
-
+##Tools Used:-
 
 
 \- PostgreSQL
@@ -39,14 +26,9 @@ Tools Used:-
 \- Data Visualization
 
 
-
-Project Workflow:-
-
-
+##Project Workflow:-
 
 Data Analysis (Python)
-
-
 
 \* Loaded and explored the dataset
 
@@ -61,13 +43,9 @@ Data Analysis (Python)
 \* Prepared data for visualization
 
 
-
-Dashboard Development (Tableau):-
-
-
+##Dashboard Development (Tableau):-
 
 Dashboard 1 — Executive Sales Overview
-
 
 
 \- KPI Cards
@@ -83,9 +61,7 @@ Dashboard 1 — Executive Sales Overview
 \- Interactive Filters
 
 
-
 Dashboard 2 — Profitability \& Operational Insights
-
 
 
 \- Sub-Category Profitability Analysis
@@ -97,9 +73,7 @@ Dashboard 2 — Profitability \& Operational Insights
 \- Business Key Findings
 
 
-
-Key Business Questions Solved:-
-
+##Key Business Questions Solved:-
 
 
 \* Which category generated the highest sales?
@@ -119,9 +93,7 @@ Key Business Questions Solved:-
 \* How did yearly sales and profit perform?
 
 
-
-&#x20;Key Insights:-
-
+##Key Insights:-
 
 
 \* Technology generated the highest sales and profit.
@@ -137,9 +109,7 @@ Key Business Questions Solved:-
 \* Sales and profit trends showed seasonal patterns and growth opportunities.
 
 
-
-Skills Demonstrated:-
-
+##Skills Demonstrated:-
 
 
 \* Data Cleaning
@@ -155,24 +125,16 @@ Skills Demonstrated:-
 \* Business Performance Analysis
 
 
+##Tableau Public Dashboard Link:-
 
-Tableau Public Dashboard Link:-
-
-
-
-https://public.tableau.com/views/ExecutiveSalesDashboard\_17797142098520/ExecutiveSalesOverview?:language=en-GB\&:sid=\&:redirect=auth\&:display\_count=n\&:origin=viz\_share\_link
+[View Interactive Tableau Dashboard](https://public.tableau.com/views/ExecutiveSalesDashboard_17797142098520/ExecutiveSalesOverview?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
-
-
-
-Outcome:-
-
+##Outcome:-
 
 
 The project provides actionable insights into sales performance, profitability, customer behavior, and regional performance, helping businesses make informed strategic decisions.
 
 
-
-Author:- Naaz Mulani
+##Author:- Naaz Mulani
 
