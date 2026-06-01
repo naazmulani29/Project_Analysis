@@ -1,0 +1,24 @@
+HR Analytics Dashboard - Key Business Insights
+
+* Research & Development department recorded the highest employee attrition count.
+* Employees working overtime showed significantly higher attrition compared to employees not working overtime.
+* Employees in lower salary slabs experienced higher attrition rates.
+* Male employees contributed a larger share of total attrition due to higher workforce representation.
+* Employee attrition was highest during the early years of employment.
+* Sales Representatives experienced one of the highest attrition levels among job roles.
+* Laboratory Technicians also showed relatively high employee turnover.
+* Younger employees contributed significantly to overall attrition.
+* Attrition patterns varied across different education fields.
+* Employees with lower job satisfaction levels showed higher attrition.
+* Job satisfaction appeared to be an important factor influencing employee retention.
+* Employee retention improved among employees with longer tenure in the organization.
+
+
+Recommendations:-
+
+* Reduce excessive overtime and improve work-life balance.
+* Review compensation strategies for lower salary groups.
+* Strengthen employee engagement during the first few years of employment.
+* Develop retention programs for high-attrition job roles.
+* Improve job satisfaction through career development and recognition initiatives.
+* Monitor department-level attrition trends and take corrective actions where necessary.

@@ -1,0 +1,26 @@
+E-Commerce Revenue Analysis - Key Business Insights
+
+
+* Technology category generated the highest sales revenue.
+* Office Supplies category generated better profit margins despite lower sales.
+* Furniture category underperformed in profitability.
+* Tables sub-category generated the highest losses.
+* Copiers sub-category generated the highest profit.
+* High discounts negatively impacted profitability.
+* Standard Class shipping had the highest number of orders and sales contribution.
+* West region generated the highest sales and profit.
+* Central region showed comparatively weaker performance.
+* Some high-sales customers generated low or negative profit.
+* Overall business profit margin was around 12.47%.
+* Sales and profit showed overall growth from 2014 to 2017.
+
+Recommendations-
+
+* Reduce excessive discounting on low-profit products to improve profitability.
+* Review pricing and product strategy for the Furniture category, especially Tables.
+* Focus marketing efforts on high-profit categories such as Technology and Copiers.
+* Analyze the causes of weak performance in the Central region and implement targeted improvement strategies.
+* Identify high-sales customers generating low profits and optimize discount policies for those accounts.
+* Continue strengthening Standard Class shipping operations due to its high contribution to sales.
+* Expand successful sales strategies from the West region to other regions where feasible.
+* Regularly monitor category-level profitability to identify loss-making products early.
