@@ -1,10 +1,10 @@
-##E-Commerce Revenue Analysis
+## E-Commerce Revenue Analysis
 
-##Project Overview:-
+## Project Overview:-
 
 This project analyzes sales, profit, customer behavior, product performance, and regional trends using the Superstore dataset. The objective is to identify key business opportunities, improve profitability, and support data-driven decision-making through interactive Tableau dashboards.
 
-##Dataset Files:-
+## Dataset Files:-
 
 \- orders\_clean.csv
 
@@ -12,7 +12,7 @@ This project analyzes sales, profit, customer behavior, product performance, and
 
 \- people\_clean.csv
 
-##Tools Used:-
+## Tools Used:-
 
 
 \- PostgreSQL
@@ -26,7 +26,7 @@ This project analyzes sales, profit, customer behavior, product performance, and
 \- Data Visualization
 
 
-##Project Workflow:-
+## Project Workflow:-
 
 Data Analysis (Python)
 
@@ -43,7 +43,7 @@ Data Analysis (Python)
 \* Prepared data for visualization
 
 
-##Dashboard Development (Tableau):-
+## Dashboard Development (Tableau):-
 
 Dashboard 1 — Executive Sales Overview
 
@@ -73,7 +73,7 @@ Dashboard 2 — Profitability \& Operational Insights
 \- Business Key Findings
 
 
-##Key Business Questions Solved:-
+## Key Business Questions Solved:-
 
 
 \* Which category generated the highest sales?
@@ -93,7 +93,7 @@ Dashboard 2 — Profitability \& Operational Insights
 \* How did yearly sales and profit perform?
 
 
-##Key Insights:-
+## Key Insights:-
 
 
 \* Technology generated the highest sales and profit.
@@ -109,7 +109,7 @@ Dashboard 2 — Profitability \& Operational Insights
 \* Sales and profit trends showed seasonal patterns and growth opportunities.
 
 
-##Skills Demonstrated:-
+## Skills Demonstrated:-
 
 
 \* Data Cleaning
@@ -125,16 +125,16 @@ Dashboard 2 — Profitability \& Operational Insights
 \* Business Performance Analysis
 
 
-##Tableau Public Dashboard Link:-
+## Tableau Public Dashboard Link:-
 
 [View Interactive Tableau Dashboard](https://public.tableau.com/views/ExecutiveSalesDashboard_17797142098520/ExecutiveSalesOverview?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
-##Outcome:-
+## Outcome:-
 
 
 The project provides actionable insights into sales performance, profitability, customer behavior, and regional performance, helping businesses make informed strategic decisions.
 
 
-##Author:- Naaz Mulani
+## Author:- Naaz Mulani
 
